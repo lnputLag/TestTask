@@ -1,0 +1,846 @@
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Тестовое задание\TestTask — копия\obj\Debug\TestTask.pdb
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\TestTask.exe.config
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\TestTask.exe
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\TestTask.pdb
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\Google.Protobuf.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\MaterialDesignColors.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\MySql.Data.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Buffers.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Memory.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\ZstdSharp.dll
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\Google.Protobuf.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\MySql.Data.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Buffers.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Memory.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\LoginWindow.g.cs
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\MainWindow.g.cs
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\RegisterWindow.g.cs
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\App.g.cs
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\App.baml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\LoginWindow.baml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\MainWindow.baml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\RegisterWindow.baml
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\TestTask.g.resources
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\TestTask.exe
+C:\Users\Kurasov_dp\Pictures\TestTask — копия\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Авторизаяция + Регистрация\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал. Реализация главного окна + все заявки\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\ClientEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\RequestEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\ClientEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал\obj\Debug\RequestEditWindow.baml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\TestTask.exe.config
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\TestTask.exe
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\TestTask.pdb
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\Google.Protobuf.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\MaterialDesignColors.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\MySql.Data.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Buffers.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Memory.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\ZstdSharp.dll
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\Google.Protobuf.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\MySql.Data.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Buffers.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Memory.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\ClientEditWindow.g.cs
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\LoginWindow.g.cs
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\MainWindow.g.cs
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\RegisterWindow.g.cs
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\RequestEditWindow.g.cs
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\App.g.cs
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\App.baml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\ClientEditWindow.baml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\LoginWindow.baml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\MainWindow.baml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\RegisterWindow.baml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\RequestEditWindow.baml
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\TestTask.g.resources
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\TestTask.exe
+C:\Users\Kurasov_dp\Desktop\Курасов тестовое задание\Финал.Исправление ошибок\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\ClientEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\RequestEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\ClientEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\RequestEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\ClientEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\RequestEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\ClientEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\RequestEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Финал.Исправление ошибок Часть 2\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\ClientEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\RequestEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\ClientEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\RequestEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\ClientEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\RequestEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\ClientEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\RequestEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Окончательный вариант — Git\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\ClientEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\RequestEditWindow.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\App.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\ClientEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\RequestEditWindow.baml
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask.pdb
+C:\Users\Dmitriy\Desktop\Финал тестового задания\Сдача тестового задания\obj\Debug\TestTask_Content.g.cs
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\TestTask.exe.config
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\TestTask.exe
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\TestTask.pdb
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\MySql.Data.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Buffers.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Memory.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\ZstdSharp.dll
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\MySql.Data.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Buffers.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Memory.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\ClientEditWindow.g.cs
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\LoginWindow.g.cs
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\RequestEditWindow.g.cs
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\App.g.cs
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask_Content.g.cs
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask_MarkupCompile.cache
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask_MarkupCompile.lref
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\App.baml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\ClientEditWindow.baml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\LoginWindow.baml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\RegisterWindow.baml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\RequestEditWindow.baml
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask.g.resources
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask.csproj.Up2Date
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask.exe
+C:\Users\Dmitriy\source\repos\Сдача тестового задания\obj\Debug\TestTask.pdb

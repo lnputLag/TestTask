@@ -1,0 +1,48 @@
+-- Создание базы данных с кодировкой UTF-8
+CREATE DATABASE IF NOT EXISTS testtask 
+CHARACTER SET utf8mb4 
+COLLATE utf8mb4_unicode_ci;
+
+-- Использование созданной базы данных
+USE testtask;
+
+-- Создание таблицы users
+CREATE TABLE IF NOT EXISTS users (
+    id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+    Username VARCHAR(50) NOT NULL UNIQUE,
+    Password VARCHAR(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- Создание таблицы сфер деятельности
+CREATE TABLE IF NOT EXISTS activity_spheres (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- Создание таблицы статусов заявок
+CREATE TABLE IF NOT EXISTS request_statuses (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- Создание таблицы клиентов
+CREATE TABLE IF NOT EXISTS clients (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    inn VARCHAR(10) NOT NULL,
+    activity_sphere_id INT,
+    notes TEXT,
+    FOREIGN KEY (activity_sphere_id) REFERENCES activity_spheres(id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- Создание таблицы заявок
+CREATE TABLE IF NOT EXISTS requests (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    client_id INT NOT NULL,
+    request_date DATETIME NOT NULL,
+    work_name VARCHAR(100) NOT NULL,
+    work_description TEXT,
+    status_id INT NOT NULL,
+    FOREIGN KEY (client_id) REFERENCES clients(id),
+    FOREIGN KEY (status_id) REFERENCES request_statuses(id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

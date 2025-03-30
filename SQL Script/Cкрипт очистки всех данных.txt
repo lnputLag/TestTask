@@ -1,0 +1,17 @@
+SET FOREIGN_KEY_CHECKS = 0;
+
+-- Удаляем данные с помощью DELETE (не сбрасывает автоинкремент)
+DELETE FROM `requests`;
+DELETE FROM `clients`;
+DELETE FROM `activity_spheres`;
+DELETE FROM `request_statuses`;
+DELETE FROM `users`;
+
+-- Вручную сбрасываем автоинкремент
+ALTER TABLE `requests` AUTO_INCREMENT = 1;
+ALTER TABLE `clients` AUTO_INCREMENT = 1;
+ALTER TABLE `activity_spheres` AUTO_INCREMENT = 1;
+ALTER TABLE `request_statuses` AUTO_INCREMENT = 1;
+ALTER TABLE `users` AUTO_INCREMENT = 1;
+
+SET FOREIGN_KEY_CHECKS = 1;
