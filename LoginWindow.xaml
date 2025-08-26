@@ -18,7 +18,7 @@
             <TextBox x:Name="textBoxLogin" Margin="10" materialDesign:HintAssist.Hint="Введите логин" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
             <PasswordBox x:Name="passBox" Margin="10" materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
             <Grid>
-                <Button HorizontalAlignment="Left" Content="Зарегестрироваться" Margin="10 50 0 0" Click="Button_Reg_Click"></Button>
+                <Button HorizontalAlignment="Left" Content="Зарегистрироваться" Margin="10 50 0 0" Click="Button_Reg_Click"></Button>
                 <Button HorizontalAlignment="Right" Content="Войти" Margin="0 50 10 0" Click="Button_Window_Auth_Click"></Button>
             </Grid>
         </StackPanel>
